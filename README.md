@@ -1,2 +1,2 @@
 # hogg
-İskenderun Teknik Üniversitesi Okul Projesi Hasan Güneş &amp; Onur Gürler tarafından geliştirilmektedir.
+QT Designer ve Pyside kullanıldı (Firestore api keylerin süresi doldu çok heyecanlanmayın)
